@@ -1,0 +1,9 @@
+footer a{
+    text-decoration: none;
+    color: rgb(255, 191, 0);
+}
+
+footer a:hover{
+    font-style: unset;
+    color: #fff;
+}
